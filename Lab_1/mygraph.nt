@@ -1,0 +1,14 @@
+<http://example.org/ns/496_MIL0865451> <http://example.org/props/publisher> <http://example.org/ns/GDM> .
+<http://example.org/ns/496_MIL0865451> <http://example.org/props/composer> <http://example.org/ns/Ennio_Morricone> .
+<http://example.org/ns/496_MIL0882729> <http://example.org/props/composer> <http://example.org/ns/Antonio_Vivaldi> .
+<http://example.org/ns/496_MIL0882729> <http://example.org/props/year> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/446_TSA1380773> <http://example.org/props/publisher> <http://example.org/ns/Emi_Classics> .
+<http://example.org/ns/496_MIL0865451> <http://example.org/props/title> "14__Orchestral_Arrangements___Ennio_Morricone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/496_MIL0882729> <http://example.org/props/publisher> <http://example.org/ns/Sony_Music_Entertainment> .
+<http://example.org/ns/496_MIL0865451> <http://example.org/props/year> "2008-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/446_TSA1380773> <http://example.org/props/composer> <http://example.org/ns/Giuseppe_Verdi> .
+<http://example.org/ns/496_MIL0882729> <http://example.org/props/title> "Vivaldis_Cello"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/496_MIL0865451> <http://example.org/props/duration> "30073"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/446_TSA1380773> <http://example.org/props/year> "2011-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/446_TSA1380773> <http://example.org/props/title> "Falstaff"^^<http://www.w3.org/2001/XMLSchema#string> .
+
